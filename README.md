@@ -36,7 +36,7 @@ The I3C website employed various technologies to see to its performance
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the Website: <a href="https://justdeylearn.com" target="_blank">JustDeyLearn</a>
+Launch the Website: <a href="https://i3c.futminna.edu.ng/" target="_blank">I3C</a>
  <br/>
 <p>JustDeyLearn Homepage Banner Overview</p>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
