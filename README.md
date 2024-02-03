@@ -1,4 +1,4 @@
-<h1>JustDeyLearn Website</h1>
+<h1>International Computing and Communication Conference Website</h1>
 
  ### [International Computing and Communication Conference](https://i3c.futminna.edu.ng/)
 
