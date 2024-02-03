@@ -38,22 +38,30 @@ The I3C website employed various technologies to see to its performance
 <p align="center">
 Launch the Website: <a href="https://i3c.futminna.edu.ng/" target="_blank">I3C</a>
  <br/>
-<p>JustDeyLearn Homepage Banner Overview</p>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>I3C Homepage Banner Overview</p>
+<img src="https://i.imgur.com/9UpDQ3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p>JustDeyLearn Homepage features and Courses Overview</p><br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>I3C Homepage features</p><br/>
+<img src="https://i.imgur.com/MP9o7oe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p>JustDeyLearn Courses Overview</p><br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>I3C SubThemes selections</p><br/>
+<img src="https://i.imgur.com/aTHHvXb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p>JustDeyLearn Library Overview</p><br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>I3C Important Dates</p><br/>
+<img src="https://i.imgur.com/olw93qS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+<p>I3C Billing Page</p><br/>
+<img src="https://i.imgur.com/EaG1wFs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p>more on I3C Billing Page</p><br/>
+<img src="https://i.imgur.com/i5xl0xv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <!--
  ```diff
 - text in red
